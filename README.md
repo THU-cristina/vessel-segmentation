@@ -74,4 +74,7 @@ Im Ordner:
 - results sind alle Ergebnisse vorzufinden
 
 
+Im Ordner dataset fehlen die HDF5-Dateien. Diese waren für GitHub zu groß. Um diese zu generieren muss das Skript prepare_datasets_to_hdf5.py ausgeführt werden.
+
+
 Das GitHub Repo "https://github.com/orobix/retina-unet" der Firma Orobix S.r.l. wurde als Basis für diese Arbeit genommen.
