@@ -1,0 +1,10 @@
+images_test: Originale Testbilder als .tif Datei
+images_training: Originale Trainingsbilder als .tif Datei
+
+img_test: Testbilder mit Maske als .tif Datei
+img_training: Trainingsbilder mit Maske als .tif Datei
+
+mask_test: Binäre Masken für die Testbilder als .gif Datei
+mask_test_temp: Temporärer Ordner als Zwischenspeicher für die generierten binären Masken als .tif Datei
+mask_training: Binäre Masken für die Trainingsbilder als .gif Datei
+mask_training_temp: Temporärer Ordner als Zwischenspeicher für die generierten binären Masken als .tif Datei
